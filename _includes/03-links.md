@@ -1,1 +1,1 @@
-(url)(https://github.com/PolGirons/markdown-portfolio/issues/6)
+[GitHub](http://github.com)
