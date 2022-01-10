@@ -1,2 +1,2 @@
 Replace this with a link to your a GitHub or social media profile.
-[text]https://github.com/PolGirons/markdown-portfolio/issues/6
+(url)https://github.com/PolGirons/markdown-portfolio/issues/6
